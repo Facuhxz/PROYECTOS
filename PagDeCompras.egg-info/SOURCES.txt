@@ -1,0 +1,7 @@
+setup.py
+PagCompras/Clientes.py
+PagCompras/__init__.py
+PagDeCompras.egg-info/PKG-INFO
+PagDeCompras.egg-info/SOURCES.txt
+PagDeCompras.egg-info/dependency_links.txt
+PagDeCompras.egg-info/top_level.txt
